@@ -1,0 +1,33 @@
+h2{
+    color: rgb(255, 255, 255);    
+    border: 25px;
+    background-color: rgb(255, 0, 149);
+    font-family: 'Dancing Script', cursive;
+    font-size: 14px;
+    text-align:center;
+}
+p {
+    color: rgb(5, 5, 5);    
+    border: 30px;
+    background-color: rgb(255, 6, 159);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 15px;
+    text-align: justify;
+}
+li {
+    display: inline;
+    background-color: rgb(255, 6, 159);
+    color: rgb(5, 5, 5);
+    text-align:center;
+}
+div {
+    color: rgb(5, 5, 5);    
+    border: 30px;
+    background-color: rgb(255, 6, 159);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 15px; 
+}
+body {
+    width: 650px;
+    margin: auto;
+}

@@ -1,0 +1,17 @@
+h1{color: brown;
+}
+h2 {color: aqua;}
+p{font-family: 'Dancing Script', cursive;
+ font-size: 45px;}
+h3{color: blue;}
+/*Criar elemento de formatação por id*/
+#txtNone{
+    background-color: blueviolet;
+    color: lightsalmon;
+    
+}
+#txtLogin{
+    background-color: blueviolet;
+    color: lightsalmon;
+}
+/*Criar elemento de formatação por class*/
